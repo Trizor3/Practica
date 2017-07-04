@@ -32,9 +32,8 @@ namespace WindowsFormsApplication1
         {
             Console.WriteLine("Connected to Oracle!");
         }
+        
+
     }
-    private void Form1_Load(object sender, EventArgs e)
-        {
-            CreateGui(new RedControlFactory());
-        }
+   
 }

@@ -6,3 +6,20 @@ c:\users\student.pcuser-pc\documents\visual studio 2013\Projects\WindowsFormsApp
 c:\users\student.pcuser-pc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 c:\users\student.pcuser-pc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 c:\users\student.pcuser-pc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\GP\Desktop\Practica\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

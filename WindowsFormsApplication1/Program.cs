@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Drawing;
 
 namespace WindowsFormsApplication1
 {
@@ -44,7 +44,9 @@ namespace WindowsFormsApplication1
             obj.MethodA();
             obj.MethodB();
 
-           // bool success = TestConnection(connMngr);            
+            // bool success = TestConnection(connMngr);
+
+
             /* container.RegisterType<IHtmlCreator, HtmlInputTextCreator>("text");
             container.RegisterType<IHtmlCreator, HtmlInputCheckboxCreator>("checkbox");
             var someDbFields = new[]
@@ -70,7 +72,12 @@ namespace WindowsFormsApplication1
             }
             Console.WriteLine(builder.ToString());
             Console.ReadKey();*/
+
+            
         }
+
+       
+
         public static void PrintFullName(Person p)
         {
             Console.WriteLine(p.GetFullName());
@@ -83,14 +90,16 @@ namespace WindowsFormsApplication1
             connMngr.Close();
             return true;
         }
-        private void CreateGui(IControlFactory factory)
+
+        static void CreateGui(IControlFactory factory)
         {
             Control textBox = factory.CreateTextBox();
             textBox.Location = new Point(10, 10);
-            Controls.Add(textBox);
-            Control checkBox = factory.Cre01ateCheckBox();
+            textBox.Controls.Add(textBox);
+            Control checkBox = factory.CreateCheckBox();
             checkBox.Location = new Point(10, 50);
-            Controls.Add(checkBox);
+            checkBox.Controls.Add(checkBox);
         }
+
     }
 }
